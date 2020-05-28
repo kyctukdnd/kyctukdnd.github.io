@@ -20,10 +20,7 @@ function makeChapter(chapter)
 {
 	var node = document.createElement("div");
 	
-	loadText(chapter.text, function(text)
-	{
-		node.innerHTML = chapter.name + "</br>" + text;
-	});
+	node.innerHTML = chapter.name + "</br>" + loadText(chapter.text);
 	
 	return node;
 }

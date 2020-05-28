@@ -16,12 +16,10 @@
 				document.head.appendChild(script);
 			}
 			
-			function loadText(url, callback)
+			function loadText(url)
 			{
-				fetch("./" + url).then( response =>
-				{
-					callback(response);
-				});
+				let response = await fetch("./" + url);
+				return response.text();
 			}
 			
 			load("main.js");
