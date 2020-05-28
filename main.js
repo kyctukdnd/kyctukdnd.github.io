@@ -1,5 +1,6 @@
 
-function doAction()
+function doLoadAction()
 {
-	alert("123");
+	showChapters();
 }
+
