@@ -2,9 +2,13 @@
 	<header>
 	</header>
 	<body>
-		<script type="javascript" src="./main.js"></script>
 		<script type="text/javascript">
-			doAction();
+			var script = document.createElement('script');
+			script.onload = function () {
+				doAction();
+			};
+			script.src = "./main.js";
+			document.head.appendChild(script);
 		</script>
 	</body>
 </html>
