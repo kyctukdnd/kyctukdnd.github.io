@@ -3,4 +3,3 @@ function doLoadAction()
 {
 	showChapters();
 }
-
