@@ -1,4 +1,7 @@
 # test
+
+https://zen.yandex.ru/media/id/5cb48fb075327600b390b4b7/dnd-razbor-lista-personaja-5cff3d8efa15f800b097245d
+
 Сила - СИЛ
 Ловкость - ЛОВ
 Телосложение - ТЕЛ
