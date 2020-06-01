@@ -16,6 +16,7 @@ https://zen.yandex.ru/media/id/5cb48fb075327600b390b4b7/dnd-razbor-lista-persona
 
 Плут:
 (Человек)
+https://dungeon.su/articles/class/99-rogue/
 
 СИЛ - 12 +1
 ЛОВ - 15 +1
@@ -39,6 +40,7 @@ https://zen.yandex.ru/media/id/5cb48fb075327600b390b4b7/dnd-razbor-lista-persona
 	
 Воин:
 (Дварф)
+https://dungeon.su/articles/class/91-fighter/
 
 СИЛ - 15 +2
 ЛОВ - 13
@@ -76,6 +78,7 @@ https://zen.yandex.ru/media/id/5cb48fb075327600b390b4b7/dnd-razbor-lista-persona
 
 Монах:
 (Человек)
+https://dungeon.su/articles/class/93-monk/
 
 СИЛ - 12 +1
 ЛОВ - 8  +1
@@ -97,6 +100,7 @@ https://zen.yandex.ru/media/id/5cb48fb075327600b390b4b7/dnd-razbor-lista-persona
 
 Варвар:
 (Человек)
+https://dungeon.su/articles/class/87-barbarian/
 
 СИЛ - 15 +1
 ЛОВ - 14 +1
@@ -118,6 +122,7 @@ https://zen.yandex.ru/media/id/5cb48fb075327600b390b4b7/dnd-razbor-lista-persona
 
 Следопыт:
 (Эльф)
+https://dungeon.su/articles/class/97-ranger/
 
 СИЛ - 12
 ЛОВ - 15 +2
