@@ -1,5 +1,7 @@
 # test
 
+https://phenomen.github.io/dnd5ru/
+
 https://zen.yandex.ru/media/id/5cb48fb075327600b390b4b7/dnd-razbor-lista-personaja-5cff3d8efa15f800b097245d
 
 + выбрать 6 направлений (за каждое +2 к модификатору)
