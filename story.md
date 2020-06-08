@@ -2,6 +2,9 @@
 Генератор лута: http://dm-stuff.ru/generator-loot/
 
 
+Генератор лута2: https://tentaculus.ru/random/index.html#item=mountain_encounters
+
+
 Подсказки по состояниям: https://phenomen.github.io/dnd5ru/
 
 
