@@ -1,7 +1,55 @@
 <html>
+	<head>
+		<style>
+			.tools
+			{
+				position: fixed;
+				cursor: pointer;
+				background: #00000066;
+				padding: 10px;
+			};
+			
+			.btn
+			{
+				display: inline-block;
+				width: 100px;
+				height: 32px;
+			};
+		</style>
+		<script type="text/javascript">
+			function load(url)
+			{
+				let item = document.getElementById("data");
+				data.src = "./"+url+".svg";
+			}
+			
+			function hideShow(btn)
+			{
+				let btnType = (btn.innerHTML=="&gt;");
+				let buttons = document.getElementsByClassName("btn");
+				
+				for(i=0;i<buttons.length;i++)
+				{
+					let item = buttons[i];
+					
+					if(item == btn)
+						continue;
+					
+					item.style.display = btnType ? "inline-block" : "none";
+				}
+				
+				btn.innerHTML = (btnType ? "<" : ">" );
+			}
+		</script>
+	</head>
 	<body>
+		<div class="tools">
+			<button class="btn" onclick="hideShow(this)"><</button>
+			<button class="btn" onclick="load('world')">Мир</button>
+			<button class="btn" onclick="load('politics')">Политика</button>
+		</div>
 		<div>
-			<img src="./world.svg"/>
+			<img id="data" src="./world.svg"/>
 		</div>
 	</body>
 </html>
